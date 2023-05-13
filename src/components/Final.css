@@ -1,0 +1,52 @@
+.final-container {
+
+    display: inline-flex;
+    flex-direction: column;
+    align-items: start;
+    position: relative;
+    padding:1.5rem ;
+    height: 0 auto;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+.final-container h2 {
+    margin-bottom: 1rem;
+    text-align: center;
+    text-transform: uppercase;
+    color: #566589;
+    max-width: 0 auto;
+}
+
+.final-container h3 {
+
+    text-align: center;
+    margin-bottom: 1rem;
+    text-decoration: underline;
+    color: #8e98b0;
+}
+.final-container h4 {
+
+    text-align: center;
+    margin-bottom: 1rem;
+    color: #000;
+    width:  auto;
+
+}
+
+
+.final-container p {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.review-data {
+    text-align: left;
+    width: 80%;
+}
+
+
+
+.review-data span {
+    font-weight: bold;
+}
